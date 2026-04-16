@@ -7,7 +7,7 @@ import warnings
 warnings.filterwarnings('ignore')
 
 # Constants
-DATA_PATH = Path(__file__).resolve().parent.parent / 'Data' / 'india_aqi.csv'
+DATA_PATH = Path(__file__).resolve().parent.parent / 'data' / 'india_aqi.csv'
 TITLE = "🌍 Air Quality Dashboard"
 
 # Set page config
