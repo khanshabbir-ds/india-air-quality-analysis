@@ -1,5 +1,6 @@
-🌍 Air Quality Intelligence System (India) 🚀 Overview
+🌍 Air Quality Intelligence System (India) 
 
+🚀 Overview
 A complete data science project analyzing air pollution trends across Indian cities with machine learning and forecasting.
 
 🔥 Key Features
@@ -31,4 +32,5 @@ India Air Quality Dataset (AQI)
 
 
 👨‍💻 Author
-Khan Shabbir
+
+Khan Shabbir.
